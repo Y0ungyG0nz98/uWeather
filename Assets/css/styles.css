@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+header {
+    background: linear-gradient(to right, rgb(62,62,207), rgb(30,30,121));
+}
+
+.dashboard-header {
+    margin-left: 30%;
+    padding: 20px;
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+}
+
+.subtitle {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.city-search {
+    border: black solid;
+    border-radius: 5px;
+    padding: 15px;
+    display: block;
+}
+
+.weather-info {
+    display: block;
+}
